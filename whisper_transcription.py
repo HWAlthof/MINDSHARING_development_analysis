@@ -5,10 +5,6 @@ Created on Tue Apr  9 10:49:34 2024
 @author: U013179
 """
 
-conda create --name whisperx python=3.12
-
-conda activate whisperx
-
 import whisper
 import os
 import glob
